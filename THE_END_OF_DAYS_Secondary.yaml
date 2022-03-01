@@ -12,4 +12,3 @@ S3BucketName: teod
 S3FolderName: teod-individual-files
 S3HostPublicKey: ''
 S3HostSecretKey: ''
-NetworkInfo: https://docs.google.com/document/d/1yxiXdO37mOrWvaXDYdo3bEVPjIIU4lNyF0hhtFKGmPM/edit?usp=sharing
