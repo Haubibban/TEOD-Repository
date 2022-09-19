@@ -13,3 +13,18 @@ S3FolderName: teod-individual-files
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://docs.google.com/document/d/1yxiXdO37mOrWvaXDYdo3bEVPjIIU4lNyF0hhtFKGmPM/edit
+Deprecated: false
+ColorsInformation:
+  GenLauncherBorderColor: '#6c3636'
+  GenLauncherInactiveBorder: '#a29f9f'
+  GenLauncherInactiveBorder2: '#6c3636'
+  GenLauncherActiveColor: '#c53838'
+  GenLauncherDarkFillColor: '#c53838'
+  GenLauncherDarkBackGround: '#000000'
+  GenLauncherLightBackGround: '#000000'
+  GenLauncherDefaultTextColor: White
+  GenLauncherDownloadTextColor: White
+  GenLauncherListBoxSelectionColor2: '#36ff2730'
+  GenLauncherListBoxSelectionColor1: '#36ff2730'
+  GenLauncherButtonSelectionColor: '#6c3636'
+  GenLauncherBackgroundImageLink: https://cdn.discordapp.com/attachments/799373032778498069/1021428151131312169/GlBg.png
