@@ -2,7 +2,7 @@ ModificationType: Mod
 Name: The End of Days
 Version: 0.98.5 Patch 10
 SimpleDownloadLink:
-UIImageSourceLink: https://imgur.com/x5M8Kvg
+UIImageSourceLink: https://i.imgur.com/x5M8Kvg.png
 DiscordLink: https://discord.com/invite/aCtu7UG
 ModDBLink: https://www.moddb.com/mods/the-end-of-days
 NewsLink: https://docs.google.com/document/d/1O7xeMCq5nxaaDea3MuV2fzwX7A10hNg65DGt0nLTN6Y/edit?usp=sharing
@@ -27,4 +27,4 @@ ColorsInformation:
   GenLauncherListBoxSelectionColor2: '#36ff2730'
   GenLauncherListBoxSelectionColor1: '#36ff2730'
   GenLauncherButtonSelectionColor: '#6c3636'
-  GenLauncherBackgroundImageLink: https://imgur.com/m8MgquM
+  GenLauncherBackgroundImageLink: https://i.imgur.com/m8MgquM.png
