@@ -1,6 +1,6 @@
 ModificationType: Mod
 Name: The End of Days
-Version: 0.98.6 Patch 9 Hotfix
+Version: 0.98.6 Patch 10
 SimpleDownloadLink:
 UIImageSourceLink: https://i.imgur.com/x5M8Kvg.png
 DiscordLink: https://discord.com/invite/aCtu7UG
@@ -28,3 +28,4 @@ ColorsInformation:
   GenLauncherListBoxSelectionColor1: '#36ff2730'
   GenLauncherButtonSelectionColor: '#6c3636'
   GenLauncherBackgroundImageLink: https://i.imgur.com/m8MgquM.png
+
